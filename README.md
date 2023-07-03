@@ -1,6 +1,6 @@
 # Reactive
 
-This is a test on building state-driven UIs without the virtual DOM
+This is a test on building state-driven UIs without the virtual DOM.
 
 ## How to run
 
